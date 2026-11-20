@@ -1,0 +1,4 @@
+Row 24: Quantity must be a positive whole number
+Row 72: Price must be zero or greater
+Row 149: Missing sale ID, product ID or category
+Row 221: Stock cannot be negative

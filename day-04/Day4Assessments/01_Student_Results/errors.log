@@ -1,0 +1,6 @@
+Line 20: Mark must be between 0 and 100 | 3020,Onthatile Mthethwa,102;55;62
+Line 45: Mark is not a whole number | 3045,Kgothatso Mahlangu,65;abs;78
+Line 78: Duplicate student number | 3004,Lindokuhle Radebe,57;50;71
+Line 114: Student name is missing | 3114,,86;62;92
+Line 157: Exactly three marks are required | 3157,Koketso Motsamai,56;79
+Line 204: Student number must contain digits | X3204,Masego Ramokgopa,69;31;56

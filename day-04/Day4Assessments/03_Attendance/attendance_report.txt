@@ -1,0 +1,17 @@
+STUDENT ATTENDANCE EARLY WARNING
+Accepted: 246 | Rejected: 4
+HIGH: 164
+MEDIUM: 50
+LOW: 32
+
+10 LOWEST ATTENDANCE RECORDS
+C1STU0229 Palesa Mthembu: 12.0% (HIGH)
+C1STU0031 Katlego Molefe: 12.0% (HIGH)
+C1STU0119 Neo Maseko: 12.5% (HIGH)
+C1STU0133 Kabelo Maseko: 14.3% (HIGH)
+C1STU0049 Kabelo Ndlovu: 15.8% (HIGH)
+C1STU0218 Sibusiso Sithole: 16.7% (HIGH)
+C1STU0175 Ayanda Mthembu: 16.7% (HIGH)
+C1STU0216 Thandi Masango: 17.6% (HIGH)
+C1STU0130 Neo Radebe: 18.2% (HIGH)
+C1STU0197 Neo Mahlangu: 18.8% (HIGH)
